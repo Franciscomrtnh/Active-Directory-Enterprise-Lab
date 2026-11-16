@@ -60,21 +60,23 @@ The VMs also used a separate NAT adapter during some setup steps. To avoid using
 
 All incidents are **self-created lab simulations**, not actual company support tickets. See each ticket for the observed tests, procedure and verification.
 
-## Evidence
 
-The screenshots directory contains portfolio evidence and a [screenshot checklist](screenshots/README.md). The DNS test image is included below; the remaining screenshots should be added to the folder before sharing the public repository.
 
-![Domain controller resolved from Windows 11 using nslookup](screenshots/07-dns-test.png)
 
-Evidence files to add:
 
-1. `screenshots/01-departments.png` — Active Directory OU structure
-2. `screenshots/02-employees.png` — Example employee accounts
-3. `screenshots/03-domain-joined.png` — Windows 11 computer joined to `helpdesk.test`
-4. `screenshots/04-hr-group.png` — HR security group and members
-5. `screenshots/05-ntfs-permissions.png` — HR folder NTFS ACL
-6. `screenshots/06-shared-folder.png` — HR folder access from domain workstation
 
+
+## Lab Evidence
+
+The following screenshots document the configuration and validation of the enterprise lab environment.
+
+1. [Active Directory organizational structure](screenshots/01-departments.png)
+2. [Employee accounts](screenshots/02-employees.png)
+3. [Windows 11 domain-joined workstation](screenshots/03-domain-joined.png)
+4. [HR security group membership](screenshots/04-hr-group.png)
+5. [NTFS folder permissions](screenshots/05-ntfs-permissions.png)
+6. [Shared folder access validation](screenshots/06-shared-folder.png)
+7. [DNS resolution verification](screenshots/07-dns-test.png)
 ## Troubleshooting tools used
 
 ```cmd
