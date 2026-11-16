@@ -1,4 +1,4 @@
-# IT Help Desk & Active Directory Home Lab
+Active Directory Home Lab
 
 **Windows Server 2025 • Windows 11 Enterprise • Active Directory • DNS • Group Policy • SMB • NTFS**
 
