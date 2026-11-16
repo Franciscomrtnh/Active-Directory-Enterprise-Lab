@@ -1,4 +1,4 @@
-Active Directory Home Lab
+# Active Directory Enterprise Lab
 
 **Windows Server 2025 • Windows 11 Enterprise • Active Directory • DNS • Group Policy • SMB • NTFS**
 
