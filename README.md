@@ -103,9 +103,3 @@ Test-NetConnection 192.168.50.10 -Port 445
 
 **Help Desk L1 · Windows 11 Support · Windows Server · Active Directory · User Account Administration · Group Policy · DNS Troubleshooting · Network Connectivity · SMB File Shares · NTFS Permissions · Ticket Documentation**
 
-## Further improvements
-
-- Add a dedicated ticketing application (for example, osTicket or GLPI) and record these scenarios there.
-- Capture before-and-after screenshots for the account lockout and DNS scenarios.
-- Automate user provisioning and account audits with PowerShell.
-- Introduce a separate fileserver and role-based departmental share structure.
